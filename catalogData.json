@@ -1,27 +1,27 @@
 [
   {
     "id_product": 123,
-    "product_name": "Ęëŕâčŕňóđŕ",
+    "product_name": "Клавиатура",
     "price": 2500
   },
   {
     "id_product": 456,
-    "product_name": "Ěűřęŕ",
+    "product_name": "Мышка",
     "price": 1100
   },
   {
     "id_product": 234,
-    "product_name": "Íîóňáóę",
+    "product_name": "Ноутбук",
     "price": 65000
   },
   {
     "id_product": 345,
-    "product_name": "Ŕęęóěóë˙ňîđ",
+    "product_name": "Аккумулятор",
     "price": 3400
   },
   {
     "id_product": 323,
-    "product_name": "Çŕđ˙äęŕ",
+    "product_name": "Зарядка",
     "price": 2000
   }
 ]
